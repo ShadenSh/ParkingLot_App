@@ -27,6 +27,7 @@ c-ares=1.28.1=h10d778d_0
 ca-certificates=2024.3.11=hecd8cb5_0
 cachetools=5.3.3=py312hecd8cb5_0
 certifi=2024.6.2=py312hecd8cb5_0
+charset-normalizer=2.0.4=pyhd3eb1b0_0
 click=8.1.7=py312hecd8cb5_0
 contourpy=1.2.0=py312ha357a0b_0
 cycler=0.11.0=pyhd3eb1b0_0
@@ -86,7 +87,6 @@ lz4-c=1.9.4=hcec6c5f_1
 markdown-it-py=3.0.0=pypi_0
 markupsafe=2.1.5=pypi_0
 matplotlib=3.9.0=py312hb401068_0
-matplotlib-base=3.9.0=py312h0d5aeb7_0
 mdurl=0.1.2=pypi_0
 mkl=2023.1.0=h8e150cf_43560
 mkl-service=2.4.0=py312h6c40b1e_1
